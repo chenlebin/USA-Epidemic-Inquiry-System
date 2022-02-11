@@ -1,0 +1,237 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*本css为大部分实用css的合集,仍在更新中*/
+/*!!!!!!!!!!!!!!!!!!!!导航可用查找功能进行功能查询!!!!!!!!!!!!!!!!!!!!!!!*/
+/*
+		======居中部分=======
+		======清除浮动=======
+		======背景图片=======
+		======边框设置=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+		======清除浮动=======
+
+*/
+/*!!!!!!!!!!!!!!!!!!!!导航可用查找功能进行功能查询!!!!!!!!!!!!!!!!!!!!!!!*/
+
+
+/*===========================居中部分=============================*/
+
+/*1:设置两个里外div实现内层div居中显示*/
+.juzhong_1{
+	text-align:center;
+	width:100%;
+	}
+
+/*2：设置某一个div绝对定位居中在页面正中间（利用两层div设置绝对定位完成）*/
+   /*外层div*/ .juzhong_2_wai{
+
+         width:100%;
+         margin-top:30px;
+         position: relative;
+
+    }
+
+    /*内层div*/.juzhong_2_li{
+	width: 100%;
+
+
+        }
+		
+/*3:设置整个body全部居中，其实设置整个页面字体样式也可以写在body里*/
+
+	/*
+	body{text-align:center;}
+	*/
+
+/*4:利用定位作居中直接在这个div中加入   margin: 0 auto;*/
+
+	.juzhong_3{margin: 0 auto;}
+
+
+/*===========================清除浮动=============================*/
+/*多个div浮动之间要加上一个清除浮动的div：*/
+.qingchu{
+	clear:both;
+	}
+
+/*===========================背景图片=============================*/
+/*整个页面加上背景图片*/
+/*body{ 
+	 background-image:url(duomeiti/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2020112214033610.jpg);
+	 background-size:cover;
+	 
+	 }*/
+	 
+.beijing{
+     background-size:cover;
+}
+
+
+
+/*===========================边框设置=============================*/
+
+/*
+
+外边距：margin
+边框：border：style width color 边框样式，宽度，颜色
+内边距：paddin
+top上
+left左
+bottom下
+right右
+
+*/
+
+/*1：设置边框圆角化*/
+.biankuangyuanjiao{
+	border: solid #fcf2d9 1px;
+	border-radius:12px;
+	}
+
+
+
+
+
+
+
+
+<!--cc的css-->
+
+#pleft1{
+		
+		font-size: 20px;
+		padding:10px;	
+		color:#000;	
+		font-family:"楷体";
+		text-align:center;
+	}
+span{margin:0 70px;}
+.clb_cc{
+
+	width:100%;
+
+}
+.clb_cc p{
+	color:#000;
+	font-family:"幼圆";
+	font-weight:bold;
+	text-align: center;
+}
+.clb_cc img{
+	border:20px;
+	width:220px;
+	height:250px;
+	border-radius:15%;
+}
+
+#bj{
+	background-color:#FFF;
+	background-size:cover;}
+.left01{
+	float:left;
+	text-align:center;
+}
+.xiaodiv{
+	padding:10px;
+	margin-right: 30px;
+	margin-left: 30px;
+
+}
+<!--关于我们页面的css-->
+	#ziti{
+		background-color:#474747;
+		font:bold soild #000;
+
+	}
+#ziti h3{
+
+	font-size:40px;
+}
+#ziti p{
+	font-size:20px;
+}
+
+
+<!--超链接-->
+	a:link {
+		color:#000;
+		text-decoration:none;
+	}
+a:visited {
+	color:#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

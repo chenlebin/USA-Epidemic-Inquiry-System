@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebContent/denglu.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/js/bootstrap.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/js/jquery-1.11.3.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/js/npm.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/主页.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/修改用户信息.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/删除用户信息.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/增加用户信息.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/实时全美疫情数据统计.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/实时疫情查询系统用户总人数.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/注册.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/用户协议.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/用户界面.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/用户页面.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/账户信息查询.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/账户信息查询结果.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/银行卡卡号查询结果.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/hf/dao/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/hf/servlet/queryservlet.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

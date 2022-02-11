@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{}
+
+a{text-decoration:none;}
+a:link{ color:#000;}
+a:visited{	
+ }
+a:hover{color:#EC7C00; text-decoration:none;}
+a:active{}
+
+.zhengti{ background-color:#FFF;
+padding:0 200px;
+}
+
+.neirong{  }
+
+.zhanyongding{ height:80px}
+
+.zhanyong{ height:28px;}
+
+.qgyq{}
+
+#mouguozixun{
+	margin-top:20px;	
+	width:100%;
+	height:350px;
+	padding:20px;
+	border:0.5px #D5D5D5 solid;
+	border-radius:38px;
+	}
+	
+.danxuan{
+	
+	border: solid #fcf2d9 1px;
+	border-radius:10px;
+	width:200px;
+	background-color:#FFF;
+	}
+	
+.yuanxingbiankuang{
+		
+	margin-top:20px;	
+	width:100%;
+	padding:20px;
+	border:0.5px #D5D5D5 solid;
+	border-radius:38px;
+	}
+
+.yqzx{ }
+
+.qzfbdt{}
+
+.sjph{}
+
+.yqqs{}
+
+.fhyp{}
+
+.gywm{}
+
+.kongbaizuo{ float:left; width:10%;}
+
+.kongbaiyou{float:right; width:10%;}
+
+.zuo{
+	float:left;
+	}
+.you{
+	float:right;
+	}
+.qingchu{
+	 clear:both;
+	}
+
+#dhwz{ text-align:center; padding-top:20px; padding-bottom:20px;}
+#dhwz li{ display:inline; padding:10px 20px; font-size:16px; font-family:"黑体"; font:bold; color:#333;}
+
+
+#pleft{
+	float:left;
+	width:15%;
+	font-size:36px;
+}
+
+#clb_cc{
+	float:right;
+	width:72%}
+
+#pp ul li{
+	font-family:"楷体";
+	color:#63C;
+	list-style-type:none;
+	font-size:30px;
+	border:1px #fff ;
+	border-bottom:3px #38BCC7 solid;
+	padding:15px;
+}
+
+#zz_cc{
+	padding:30px;
+
+}
+#bj_cc{
+	background-color:#FFF;
+	background-size:cover;}
+#ys_cc{ color:#000;
+	font-family:"幼圆";
+	font-weight:bold;}
+ 
+ 
