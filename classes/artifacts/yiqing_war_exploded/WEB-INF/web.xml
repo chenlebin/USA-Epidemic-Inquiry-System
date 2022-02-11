@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+
+
+  <!--管理员模块servlet  -->
+  <servlet>
+    <servlet-name>df</servlet-name>
+    <servlet-class>hf.servlet.YhServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>df</servlet-name>
+    <url-pattern>/cc</url-pattern>
+  </servlet-mapping>
+
+  <display-name>yiqing</display-name>
+  <servlet>
+    <servlet-name>paihang</servlet-name>
+    <servlet-class>hf.servlet.queryservlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>paihang</servlet-name>
+    <url-pattern>/pai</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

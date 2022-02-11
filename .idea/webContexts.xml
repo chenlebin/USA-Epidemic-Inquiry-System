@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebContent/USA疫情查询.jsp" value="file://$PROJECT_DIR$/WebContent" />
+        <entry key="file://$PROJECT_DIR$/WebContent/usa.jsp" value="file://$PROJECT_DIR$/WebContent" />
+        <entry key="file://$PROJECT_DIR$/WebContent/usaselect.jsp" value="file://$PROJECT_DIR$/WebContent" />
+        <entry key="file://$PROJECT_DIR$/WebContent/注册.jsp" value="file://$PROJECT_DIR$/WebContent" />
+        <entry key="file://$PROJECT_DIR$/WebContent/疫情查询及其趋势预测.html" value="file://$PROJECT_DIR$/WebContent" />
+      </map>
+    </option>
+  </component>
+</project>
